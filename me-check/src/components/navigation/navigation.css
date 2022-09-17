@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;600;700&display=swap');
+
+.navbar-container {
+    display: block;
+    width: 100vw;
+    background-color: aqua ;
+}
+
+.logo {
+    position: fixed;
+    top: 33px;
+    left: 47px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 48px;
+    color: #619EFA;
+}
+
+.logo span {
+    color: #7CA9EC;
+}
+
+.user-icon img{
+    position:fixed;
+    right: 30px;
+    top: 30px;
+    height: 80px;
+    width: 80px;
+}
